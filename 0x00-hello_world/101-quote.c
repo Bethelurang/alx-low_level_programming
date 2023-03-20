@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 /**
- *main -print a line of code using putchar
+ *main - print "and that piece of art is useful" - Dora Korpar, 2015-10-1
+ * followed by a new line, to the standard error.
  *Return: 1
  */
 
 int main(void)
 
 {
-putchar("and that piece of art is useful" - Dora Korpar, 2015-10-19,\n");
+scanf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
 return (1);
 
 }
